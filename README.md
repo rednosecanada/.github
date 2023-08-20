@@ -1,6 +1,6 @@
 # Welcome to the GitHub home for Operation Red Nose ORNSA.
 
-Home of the Operation Red Nose Canada ORNSA software project for host member organizations in specific cities within Canada.  This specific solution is created entirely by dedicated volunteers who provide their time to create productivity and ERP software solutions to make planning and running annual Operation Red Nose campaigns smoother. 
+Home of the ORNSA software project for host member organizations in specific cities within Canada.  This specific solution is created entirely by dedicated volunteers who provide their time to create productivity and ERP software solutions to make planning and running annual Operation Red Nose campaigns smoother. 
 
 If other host ORN organization are interested in becoming involved and possibly using this solution, please contact devs@ornsa.ca for more details.
 
