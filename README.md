@@ -1,10 +1,12 @@
 # Welcome to the GitHub home for Operation Red Nose Winnipeg.
 
-Home of the ORNSA software project for host member organizations in specific cities within Canada.  This specific solution is created entirely by dedicated volunteers who provide their time to create productivity and ERP software solutions to make planning and running annual Operation Red Nose campaigns smoother. 
+Home of the Red Nose software project for host member organizations approved to use this software (conceived by volunteer developers for Winnipeg, MB).  
+This specific solution is created entirely by dedicated volunteers who provide their time to enhance productivity and make planning and running the annual 
+Operation Red Nose campaign smoother. 
 
-If other host ORN organization are interested in becoming involved and possibly using this solution, please contact devs@ornsa.ca for more details.
+If other host ORN organization are interested in becoming involved and possibly using this solution, please contact devs@operationrednose.online for more details.
 
-## Host non-profits and cities actively using the solution.
+## Host non-profits and cities actively using this solution.
 
 Manta Aquatic Club Inc, Winnipeg, MB (Operation Red Nose Winnipeg)
 
@@ -22,9 +24,10 @@ Doug C
 Microsoft
 Google
 GitHub
+Slack
 Ionic
 JetBrains
-Shaw
+Shaw Communications
 Rogers
 Manta Aquatic Club Inc.
 DXC Technology (historic) / HP Enterprise (historic)
