@@ -1,4 +1,4 @@
-# Welcome to the GitHub home for Operation Red Nose ORNSA.
+# Welcome to the GitHub home for Operation Red Nose Winnipeg.
 
 Home of the ORNSA software project for host member organizations in specific cities within Canada.  This specific solution is created entirely by dedicated volunteers who provide their time to create productivity and ERP software solutions to make planning and running annual Operation Red Nose campaigns smoother. 
 
