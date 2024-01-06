@@ -4,7 +4,7 @@ Home of the Red Nose software project for host member organizations approved to 
 This specific solution is created entirely by dedicated volunteers who provide their time to enhance productivity and make planning and running the annual 
 Operation Red Nose campaigns smoother. 
 
-If other host ORN organization are interested in becoming involved and possibly using this solution, please contact devs@operationrednose.online for more details.
+If other host ORN organization are interested in becoming involved and possibly using this solution, please contact devs@ornsa.ca for more details.
 
 ## Host non-profits and cities actively using this solution.
 
