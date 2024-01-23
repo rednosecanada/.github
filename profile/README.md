@@ -1,4 +1,4 @@
-## Hi there 👋
+## For inquiries related to this solution, or its volunteer developers, please contact: 
 
 <!--
 
