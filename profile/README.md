@@ -1,4 +1,4 @@
-## For inquiries related to this solution, or its volunteer developers, please contact: 
+## For inquiries related to this solution, or its volunteer developers, please contact the team using the email above.
 
 <!--
 
